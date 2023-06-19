@@ -1,0 +1,19 @@
+.container{
+    background: whitesmoke;
+    width:100%;
+    height: 600px;
+    display: flex;
+}
+
+.leftP{  
+    width: initial;
+    display: flex;
+    margin: 20px 80px;
+}
+
+.rightP{
+    width: inherit;
+    display: grid;
+    margin: 20px 115px;
+    margin-left: 20px;
+}
